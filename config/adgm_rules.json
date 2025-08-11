@@ -1,0 +1,33 @@
+{
+"required_documents": [
+"Articles of Association",
+"Memorandum of Association",
+"Register of Members and Directors",
+"Board Resolution",
+"UBO Declaration Form"
+],
+"clauses_per_doc": {
+"Articles of Association": [
+"Abu Dhabi Global Market",
+"Signatories",
+"Company Name"
+],
+"Memorandum of Association": [
+"Registered Address",
+"Shareholders"
+],
+"Register of Members and Directors": [
+"Director",
+"Shareholder"
+],
+"Board Resolution": [
+"Resolution Number",
+"Date",
+"Signatories"
+],
+"UBO Declaration Form": [
+"Ultimate Beneficial Owner",
+"Signatories"
+]
+}
+}

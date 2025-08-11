@@ -1,0 +1,100 @@
+{
+  "process": "Company Incorporation",
+  "documents_uploaded": 5,
+  "required_documents": 5,
+  "missing_documents": [],
+  "issues_found": [
+    {
+      "document": "Articles of Association",
+      "section": "N/A",
+      "issue": "Missing required clause: Abu Dhabi Global Market",
+      "severity": "High",
+      "suggestion": "Add clause referencing 'Abu Dhabi Global Market'.",
+      "suggestion_ai": "The Company shall be governed by the laws of the Abu Dhabi Global Market and the ADGM Courts shall have exclusive jurisdiction over any disputes arising out of or in connection with this document.",
+      "rationale_ai": "Jurisdiction and governing law should reference the Abu Dhabi Global Market and ADGM Courts where applicable.",
+      "citation_label": "Companies Regulations 2020 - Jurisdiction"
+    },
+    {
+      "document": "Articles of Association",
+      "section": "N/A",
+      "issue": "Missing required clause: Signatories",
+      "severity": "High",
+      "suggestion": "Add clause referencing 'Signatories'.",
+      "suggestion_ai": "IN WITNESS WHEREOF, the undersigned being the [Authorized Person/Director] of the Company, has executed this document as of the date first above written.",
+      "rationale_ai": "Company instruments and resolutions customarily include signatories of authorized persons or directors.",
+      "citation_label": "Companies Regulations 2020 - Signatures"
+    },
+    {
+      "document": "Articles of Association",
+      "section": "N/A",
+      "issue": "References UAE Federal Court instead of ADGM",
+      "severity": "High",
+      "suggestion": "Align with ADGM wording where applicable."
+    },
+    {
+      "document": "Articles of Association",
+      "section": "N/A",
+      "issue": "Appears to be missing signatory section",
+      "severity": "High",
+      "suggestion": "Align with ADGM wording where applicable."
+    },
+    {
+      "document": "Board Resolution",
+      "section": "N/A",
+      "issue": "Missing required clause: Signatories",
+      "severity": "High",
+      "suggestion": "Add clause referencing 'Signatories'.",
+      "suggestion_ai": "This Board Resolution is made by the Board of Directors of Example Technologies FZ-LLC, and is signed by the following authorized persons:",
+      "rationale_ai": "The Companies Regulations 2020 require company instruments and resolutions to include signatories of authorized persons or directors. This ensures accountability and transparency.",
+      "citation_label": "Companies Regulations 2020 - Signatures"
+    },
+    {
+      "document": "Board Resolution",
+      "section": "N/A",
+      "issue": "Ambiguous or non-binding language",
+      "severity": "Medium",
+      "suggestion": "Align with ADGM wording where applicable.",
+      "suggestion_ai": "The Board of Directors of Example Technologies FZ-LLC hereby resolves to approve incorporation documents and authorize a representative to sign documents.",
+      "rationale_ai": "The use of ambiguous phrases such as 'may consider' and 'where possible' in mandatory obligations can lead to confusion and uncertainty. It is recommended to use clear and binding language.",
+      "citation_label": "Drafting - Avoid Ambiguity"
+    },
+    {
+      "document": "Memorandum of Association",
+      "section": "N/A",
+      "issue": "Missing required clause: Registered Address",
+      "severity": "High",
+      "suggestion": "Add clause referencing 'Registered Address'.",
+      "suggestion_ai": "The company shall have a registered address located within the Abu Dhabi Global Market (ADGM) jurisdiction.",
+      "rationale_ai": "The Memorandum of Association is missing a required clause for a registered address within the Abu Dhabi Global Market (ADGM) jurisdiction.",
+      "citation_label": "Addresses - Registered Address"
+    },
+    {
+      "document": "Register of Members and Directors",
+      "section": "N/A",
+      "issue": "References UAE Federal Court instead of ADGM",
+      "severity": "High",
+      "suggestion": "Align with ADGM wording where applicable.",
+      "suggestion_ai": "Any disputes shall be settled in the ADGM Courts.",
+      "rationale_ai": "The Companies Regulations 2020 specify that jurisdiction and governing law should reference the Abu Dhabi Global Market (ADGM) and ADGM Courts where applicable. Referencing the UAE Federal Court instead of ADGM may not be compliant with ADGM regulations.",
+      "citation_label": "Companies Regulations 2020 - Jurisdiction"
+    },
+    {
+      "document": "UBO Declaration Form",
+      "section": "N/A",
+      "issue": "Missing required clause: Signatories",
+      "severity": "High",
+      "suggestion": "Add clause referencing 'Signatories'.",
+      "suggestion_ai": "This UBO Declaration Form is executed by the undersigned authorized persons/directors of Example Technologies FZ-LLC.",
+      "rationale_ai": "The Companies Regulations 2020 require company instruments and resolutions to include signatories of authorized persons or directors. This is crucial for authenticity and accountability.",
+      "citation_label": "Companies Regulations 2020 - Signatures"
+    }
+  ],
+  "reviewed_files": [
+    "data/output\\AoA_WRONG_JURISDICTION_reviewed.docx",
+    "data/output\\Board_Resolution_AMBIGUOUS_NO_SIG_reviewed.docx",
+    "data/output\\MoA_MISSING_ADDRESS_reviewed.docx",
+    "data/output\\Register_WITH_BAD_REFERENCE_reviewed.docx",
+    "data/output\\UBO_MISSING_UBO_AND_SIG_reviewed.docx"
+  ],
+  "ai_used": true
+}

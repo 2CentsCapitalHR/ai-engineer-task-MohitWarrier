@@ -1,0 +1,23 @@
+[Companies Regulations 2020 - Jurisdiction]
+Jurisdiction and governing law should reference the Abu Dhabi Global Market and ADGM Courts where applicable.
+
+[Companies Regulations 2020 - Signatures]
+Company instruments and resolutions customarily include signatories of authorized persons or directors.
+
+[Companies Regulations 2020 - Registers]
+A register of members and directors records names, shareholdings, and appointments; a separate signature block is not always required.
+
+[Practice - Board Resolutions]
+Board resolutions typically include a resolution number, date, jurisdiction reference, and signatures of directors.
+
+[Practice - UBO Declaration]
+UBO declarations identify ultimate beneficial owners, share percentages, and include a declaration with signatures of responsible parties.
+
+[Drafting - Avoid Ambiguity]
+Avoid ambiguous phrases such as "may consider", "where possible", or "as appropriate" in mandatory obligations.
+
+[Incorporation - Core Docs]
+Typical incorporation sets include Articles of Association, Memorandum of Association, Board/Shareholder resolutions, UBO declaration, and registers.
+
+[Addresses - Registered Address]
+Incorporation documents should include a registered address located within the relevant jurisdiction when required.
